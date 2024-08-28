@@ -16,6 +16,5 @@ Enhancing my Java skills through various projects.
 Building modern and user-friendly web applications.
 📫 Get in Touch
 Email: 2mustafa.exe@gmail.com
-LinkedIn: LinkedIn Profile
-Feel free to explore my repositories, contribute to open-source projects, or connect with me!
+LinkedIn: https://www.linkedin.com/in/muhammad-mustafa-baa03b2bb/
 
